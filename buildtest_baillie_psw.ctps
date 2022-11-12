@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="buildtest_baillie_psw.dpr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="46"/>
+        <CursorPos X="44" Y="55"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="libc\libc.error.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\openssl3.test.testutil.random.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="app\app.lib.opt.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="app\app.lib.win32_init.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\openssl3.test.testutil.testutil_init.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\openssl3.test.testutil.output.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\openssl3.test.testutil.driver.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\openssl3.test.testutil.tests.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\openssl3.test.testutil.basic_output.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\openssl3.test.testutil.test_options.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\openssl3.test.testutil.options.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.stack.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bio.bss_file.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\baillie_psw.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="136"/>
+        <CursorPos Y="148"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\crypto_utils.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="117"/>
+        <CursorPos Y="127"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="test\bpsw_test.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="22"/>
+        <CursorPos Y="33"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.params.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.evp.pmeth_lib.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.evp.p_lib.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.evp.pmeth_gn.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_lib.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="12"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="359"/>
+        <CursorPos Y="370"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="OpenSSL3.crypto.err.err_prn.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bio.bio_dump.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.provider.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.provider_core.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.evp.evp_fetch.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.providers.fips.fips_entry.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="43"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl.api.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="OpenSSL.api"/>
+        <EditorIndex Value="11"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="20316"/>
+        <CursorPos Y="20327"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_word.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="17"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="47"/>
+        <CursorPos Y="62"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_conv.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="13" Y="13"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_add.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="10"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="40"/>
+        <CursorPos Y="54"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_exp.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="9"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1278"/>
+        <CursorPos Y="1289"/>
+        <UsageCount Value="19"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_mont.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="13"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="419"/>
+        <CursorPos Y="434"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_sqr.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="216"/>
+        <CursorPos Y="236"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_mul.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="465"/>
+        <CursorPos Y="480"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_mod.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="254"/>
+        <CursorPos Y="272"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_shift.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="95"/>
+        <CursorPos Y="110"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bn.bn_ctx.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="14"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="76"/>
+        <CursorPos X="42" Y="79"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.bio.bio_print.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="15"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="884"/>
+        <CursorPos Y="895"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="openssl3.crypto.mem.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="16"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="69"/>
+        <CursorPos X="7" Y="88"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="test\baillie_psw.pas"/>
+        <Caret Line="182" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="test\baillie_psw.pas"/>
+        <Caret Line="183" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="98" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="100" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="test\baillie_psw.pas"/>
+        <Caret Line="177" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="103" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="105" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="test\baillie_psw.pas"/>
+        <Caret Line="148" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="108" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="110" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="test\baillie_psw.pas"/>
+        <Caret Line="148" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="113" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="119" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="113" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="121" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="test\baillie_psw.pas"/>
+        <Caret Line="148" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="124" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="126" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="test\baillie_psw.pas"/>
+        <Caret Line="148" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="129" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="131" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="test\baillie_psw.pas"/>
+        <Caret Line="148" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="134" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="1241" TopLine="1223"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="1242" TopLine="1223"/>
+      </Position>
+      <Position>
+        <Filename Value="test\bpsw_test.pas"/>
+        <Caret Line="1243" TopLine="1223"/>
+      </Position>
+      <Position>
+        <Filename Value="buildtest_baillie_psw.dpr"/>
+        <Caret Line="59" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="buildtest_baillie_psw.dpr"/>
+        <Caret Line="60" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="buildtest_baillie_psw.dpr"/>
+        <Caret Line="64" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="buildtest_baillie_psw.dpr"/>
+        <Caret Line="55" Column="44" TopLine="46"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="test\baillie_psw.pas"/>
+        <Line Value="92"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="test\baillie_psw.pas"/>
+        <Line Value="135"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="test\bpsw_test.pas"/>
+        <Line Value="95"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="test\bpsw_test.pas"/>
+        <Line Value="81"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="test\bpsw_test.pas"/>
+        <Line Value="33"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item ClassAutoCast="True">
+        <Expression Value="k.d[0]"/>
+      </Item>
+      <Item>
+        <Expression Value="U.d[0]"/>
+      </Item>
+      <Item>
+        <Expression Value="V.d[0]"/>
+      </Item>
+      <Item>
+        <Expression Value="n.d[0]"/>
+      </Item>
+      <Item>
+        <Expression Value="t.d[0]"/>
+      </Item>
+      <Item ClassAutoCast="True">
+        <Expression Value="n.d[0]"/>
+      </Item>
+      <Item>
+        <Expression Value="tmp.d[0]"/>
+      </Item>
+      <Item>
+        <Expression Value="a.d[0]"/>
+      </Item>
+      <Item>
+        <Expression Value="np.d[0]"/>
+      </Item>
+      <Item>
+        <Expression Value="rp.d[0]"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

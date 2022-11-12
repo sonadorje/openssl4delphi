@@ -1,0 +1,22 @@
+﻿
+[Exception Log]
+EurekaLog Version=8000
+934A8C7448044071A3F7A237F4461A0E="E9670B51C2754650FEF28526CD3673A394F263B255CBA84593014F1BFA35C3CA24A2F877AFF4D9AA3AA30BBAFA7BD514"
+Activate=1
+atConsole=1
+atFixSafeCallException=1
+atWin32=1
+Dialog Class="TConsoleWriterDialog"
+dpJCL=1
+Encrypt Password=""
+GUID="{35060302-E3F6-400B-8C22-DB3CB411BC5B}"
+idConsole=1
+InjectCode=1
+InjectInfo=1
+InjectOptions=1
+loEnableMMDebugMode=1
+ProjectID="{559FCCC8-9039-43F6-BA65-0628C4CBDB74}"
+sndScreenshot=0
+_CustomProfile=""
+
+

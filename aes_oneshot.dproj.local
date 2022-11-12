@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.478,=F:\MyCode\openssl3-delphi\openssl3.providers.fips.fipsprov.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.614,F:\MyCode\openssl3-delphi\openssl3.providers.prov_running.pas=F:\MyCode\openssl3-delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.419,=F:\MyCode\openssl3-delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.473,F:\MyCode\openssl3-delphi\YuOpenSSL_EVP_auth_crypt_GCM.dproj=F:\MyCode\openssl3-delphi\aes_oneshot.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

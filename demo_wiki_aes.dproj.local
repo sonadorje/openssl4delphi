@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.419,=F:\MyCode\openssl3-delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.478,=F:\MyCode\openssl3-delphi\openssl3.providers.fips.fipsprov.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.975,F:\MyCode\openssl3-delphi\openssl3.providers.fips.fipsprov.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.834,F:\MyCode\openssl3-delphi\demo_wiki_aes.dproj=F:\MyCode\openssl3-delphi\demo_openssl_aes.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.473,F:\MyCode\openssl3-delphi\YuOpenSSL_EVP_auth_crypt_GCM.dproj=F:\MyCode\openssl3-delphi\aes_oneshot.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.998,F:\MyCode\openssl3-delphi\openssl3.crypto.evp.p5_crpt2.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.931,F:\MyCode\openssl3-delphi\aes_oneshot.dproj=F:\MyCode\openssl3-delphi\demo_openssl_aes.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.284,F:\MyCode\openssl3-delphi\openssl3.providers.prov_running.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.614,F:\MyCode\openssl3-delphi\openssl3.providers.prov_running.pas=F:\MyCode\openssl3-delphi\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="libc"/>
+    <File Path="libc\libc.error.pas"/>
+    <File Path="test"/>
+    <File Path="test\basic_output.pas"/>
+    <File Path="test\openssl3.test.testutil.output.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
